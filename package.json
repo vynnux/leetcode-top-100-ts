@@ -1,0 +1,6 @@
+{
+  "name": "leetcode-top-100-ts",
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}
