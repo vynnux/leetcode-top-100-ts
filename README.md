@@ -1,6 +1,8 @@
 # LeetCode Top 100 Problems in TypeScript
 
-This project aims to solve the top 100 most common interview problems from LeetCode using TypeScript. Each problem is implemented in a separate TypeScript file, and the solutions are designed to be efficient and easy to understand.
+This project aims to solve the top 100 most common interview problems from LeetCode using TypeScript. Each problem is implemented in a separate TypeScript file, and the solutions are designed to be efficient and easy to understand. The problems are selected based on their popularity and relevance as of January 2025.
+
+You can find the complete list of problems on LeetCode [here](https://leetcode.com/problemset/?listId=wpwgkgt&page=1).
 
 ## Problem List
 
